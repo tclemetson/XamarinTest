@@ -1,0 +1,4 @@
+ToddXamarinTest.Droid.MainActivity, ToddXamarinTest.Android;md50b277d7c6ceedd28731e159dd6aae64c.MainActivity
+ToddXamarinTest.Droid.MainActivity, ToddXamarinTest.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50b277d7c6ceedd28731e159dd6aae64c.MainActivity
+ToddXamarinTest.Droid.MainActivity;md50b277d7c6ceedd28731e159dd6aae64c.MainActivity
+toddxamarintest.droid.MainActivity;md50b277d7c6ceedd28731e159dd6aae64c.MainActivity

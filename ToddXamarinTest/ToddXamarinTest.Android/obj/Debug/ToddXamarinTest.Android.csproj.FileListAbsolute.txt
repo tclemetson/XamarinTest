@@ -1,0 +1,17 @@
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\bin\Debug\ToddXamarinTest.Android.dll
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\bin\Debug\ToddXamarinTest.Android.pdb
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\bin\Debug\ToddXamarinTest.Android.apk
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\bin\Debug\ToddXamarinTest.Android-Signed.apk
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\obj\Debug\ToddXamarinTest.Android.csprojResolveAssemblyReference.cache
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\obj\Debug\ToddXamarinTest.Android.dll
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\obj\Debug\ToddXamarinTest.Android.pdb
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\obj\Debug\android\bin\ToddXamarinTest.Android.apk
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\obj\Debug\res\layout\main.xml
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\obj\Debug\res\values\strings.xml
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\obj\Debug\res\drawable-hdpi\icon.png
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\obj\Debug\res\drawable-mdpi\icon.png
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\obj\Debug\res\drawable-xhdpi\icon.png
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\obj\Debug\R.cs.flag
+c:\VSLive\ToddXamarinTest\ToddXamarinTest\ToddXamarinTest.Android\obj\Debug\uploadflags.txt
