@@ -1,5 +1,8 @@
 ﻿using Foundation;
 using UIKit;
+using Microsoft.Azure.Mobile;
+using Microsoft.Azure.Mobile.Analytics;
+using Microsoft.Azure.Mobile.Crashes;
 
 namespace ToddXamarinTest.iOS
 {
@@ -17,9 +20,11 @@ namespace ToddXamarinTest.iOS
 
 		public override bool FinishedLaunching (UIApplication application, NSDictionary launchOptions)
 		{
-			// Override point for customization after application launch.
-			// If not required for your application you can safely delete this method
-			return true;
+            MobileCenter.Start("804292f4-c788-4a6c-bbe3-2d9acd0c5003",
+                   typeof(Analytics), typeof(Crashes));
+            // Override point for customization after application launch.
+            // If not required for your application you can safely delete this method
+            return true;
 		}
 
 		public override void OnResignActivation (UIApplication application)
